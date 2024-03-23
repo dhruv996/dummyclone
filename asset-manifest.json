@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dummyclone/static/css/main.12f5d732.css",
+    "main.js": "/dummyclone/static/js/main.a9d37dbd.js",
+    "static/js/453.c1fd91a1.chunk.js": "/dummyclone/static/js/453.c1fd91a1.chunk.js",
+    "index.html": "/dummyclone/index.html",
+    "static/media/user-1-svgrepo-com.svg": "/dummyclone/static/media/user-1-svgrepo-com.ad6e01491e18a2c571ba5eee720d83a9.svg",
+    "main.12f5d732.css.map": "/dummyclone/static/css/main.12f5d732.css.map",
+    "main.a9d37dbd.js.map": "/dummyclone/static/js/main.a9d37dbd.js.map",
+    "453.c1fd91a1.chunk.js.map": "/dummyclone/static/js/453.c1fd91a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f5d732.css",
+    "static/js/main.a9d37dbd.js"
+  ]
+}
